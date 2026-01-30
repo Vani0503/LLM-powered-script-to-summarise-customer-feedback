@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "customer_feedback": "The internet connection is poor",
+        "status": "New"
+    },
+    {
+        "id": 2,
+        "customer_feedback": "The broadband is higher than expected",
+        "status": "New"
+    },
+    {
+        "id": 3,
+        "customer_feedback": "International roaming pack is not working",
+        "status": "New"
+    },
+    {
+        "id": 4,
+        "customer_feedback": "Call drops are happening frequently",
+        "status": "New"
+    },
+    {
+        "id": 5,
+        "customer_feedback": "Data speed is very slow in the evening",
+        "status": "New"
+    },
+    {
+        "id": 6,
+        "customer_feedback": "Customer service wait time is too long",
+        "status": "New"
+    },
+    {
+        "id": 7,
+        "customer_feedback": "The mobile app keeps crashing",
+        "status": "New"
+    },
+    {
+        "id": 8,
+        "customer_feedback": "Billing amount is incorrect this month",
+        "status": "New"
+    },
+    {
+        "id": 9,
+        "customer_feedback": "Network signal is weak inside my house",
+        "status": "New"
+    },
+    {
+        "id": 10,
+        "customer_feedback": "Fiber connection is frequently disconnecting",
+        "status": "New"
+    },
+    {
+        "id": 11,
+        "customer_feedback": "Activation of the new SIM is delayed",
+        "status": "New"
+    },
+    {
+        "id": 12,
+        "customer_feedback": "The 5G speeds are not as promised",
+        "status": "New"
+    },
+    {
+        "id": 13,
+        "customer_feedback": "Broadband installation was professional",
+        "status": "New"
+    },
+    {
+        "id": 14,
+        "customer_feedback": "Unable to send SMS while on roaming",
+        "status": "New"
+    },
+    {
+        "id": 15,
+        "customer_feedback": "The recharge plan prices are too high",
+        "status": "New"
+    },
+    {
+        "id": 16,
+        "customer_feedback": "Hidden charges found in the monthly bill",
+        "status": "New"
+    },
+    {
+        "id": 17,
+        "customer_feedback": "Voice quality is muffled during calls",
+        "status": "New"
+    },
+    {
+        "id": 18,
+        "customer_feedback": "The router gets overheated often",
+        "status": "New"
+    },
+    {
+        "id": 19,
+        "customer_feedback": "Friendly staff at the service center",
+        "status": "New"
+    },
+    {
+        "id": 20,
+        "customer_feedback": "Internet is down since this morning",
+        "status": "New"
+    }
+]
