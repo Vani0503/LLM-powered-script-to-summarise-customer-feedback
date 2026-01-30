@@ -1,0 +1,84 @@
+prompt_version,llm_output
+prompt_5_structured,"Here is the summarized information from the customer support tickets:
+
+1. **Issue:** Poor internet connection  
+   **Impact:** Affects user experience  
+   **Urgency:** High  
+
+2. **Issue:** Broadband cost higher than expected  
+   **Impact:** Customer dissatisfaction  
+   **Urgency:** Medium  
+
+3. **Issue:** International roaming pack not working  
+   **Impact:** Inability to use services abroad  
+   **Urgency:** High  
+
+4. **Issue:** Frequent call drops  
+   **Impact:** Disrupts communication  
+   **Urgency:** High  
+
+5. **Issue:** Slow data speed in the evening  
+   **Impact:** User frustration  
+   **Urgency:** Medium  
+
+6. **Issue:** Long customer service wait times  
+   **Impact:** Negative customer experience  
+   **Urgency:** Medium  
+
+7. **Issue:** Mobile app crashes  
+   **Impact:** Limits access to services  
+   **Urgency:** High  
+
+8. **Issue:** Incorrect billing amount this month  
+   **Impact:** Financial discrepancies  
+   **Urgency:** High  
+
+9. **Issue:** Weak network signal indoors  
+   **Impact:** Difficulties in connectivity at home  
+   **Urgency:** Medium  
+
+10. **Issue:** Frequent disconnections of fiber connection  
+    **Impact:** Interrupts internet access  
+    **Urgency:** High  
+
+11. **Issue:** Delay in activation of new SIM  
+    **Impact:** Inconvenience for the customer  
+    **Urgency:** Medium  
+
+12. **Issue:** 5G speeds not as promised  
+    **Impact:** Loss of trust in service  
+    **Urgency:** Medium  
+
+13. **Issue:** Positive feedback on broadband installation  
+    **Impact:** Customer satisfaction  
+    **Urgency:** Low  
+
+14. **Issue:** Unable to send SMS while roaming  
+    **Impact:** Communication challenges  
+    **Urgency:** High  
+
+15. **Issue:** High recharge plan prices  
+    **Impact:** Customer dissatisfaction  
+    **Urgency:** Medium  
+
+16. **Issue:** Hidden charges in monthly bill  
+    **Impact:** Erosion of trust  
+    **Urgency:** High  
+
+17. **Issue:** Muffled voice quality during calls  
+    **Impact:** Poor communication quality  
+    **Urgency:** High  
+
+18. **Issue:** Router overheating  
+    **Impact:** Potential hardware issues  
+    **Urgency:** Medium  
+
+19. **Issue:** Positive feedback on staff friendliness  
+    **Impact:** Enhances brand reputation  
+    **Urgency:** Low  
+
+20. **Issue:** Internet down since morning  
+    **Impact:** Complete loss of access  
+    **Urgency:** High  
+
+This summary helps prioritize customer support actions based on urgency and impact."
