@@ -248,3 +248,27 @@ along with performance optimization for the mobile app.
 Additionally, implementing a feature that tracks connection quality in real-time could provide valuable insights and 
 help mitigate customer issues more proactively."
 
+Prompt4
+prompt_version,llm_output
+prompt_4_structured,"- Poor internet connection reported by the customer.
+- Unexpectedly high broadband charges noted.
+- International roaming pack malfunctioning.
+- Frequent call drops affecting user experience.
+- Slow data speeds experienced during evening hours.
+- Long customer service wait times reported.
+- Mobile app crashing repeatedly.
+- Incorrect billing amount for the current month.
+- Weak network signal reported inside the customer's house.
+- Frequent disconnections of the fiber connection.
+- Delay in the activation of a new SIM card.
+- 5G speeds not meeting customer expectations.
+- Positive feedback on professional broadband installation.
+- Inability to send SMS while roaming.
+- Prices for recharge plans deemed too high.
+- Hidden charges found in the monthly bill.
+- Muffled voice quality during calls.
+- Router overheating frequently reported.
+- Positive experience with friendly staff at the service center.
+- Internet service down since the morning."
+
+
