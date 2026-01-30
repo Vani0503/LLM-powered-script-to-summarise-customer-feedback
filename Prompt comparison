@@ -207,3 +207,44 @@ prompt_2_structured,"Here’s a summary of the customer support tickets:
     - **Customer Sentiment**: Negative"
 
 Prompt3
+prompt_version,llm_output
+prompt_3_structured,"### Summary of Customer Support Tickets:
+
+1. **Internet and Connectivity Issues:**
+   - Poor internet connection.
+   - Weak network signal inside the house.
+   - Frequent disconnection of fiber connection.
+   - Slow data speed in the evening.
+   - Inconsistent 5G speeds.
+   - Call drops during conversations.
+   - Unable to send SMS while on roaming.
+
+2. **Customer Service and Support:**
+   - Long wait times for customer service.
+   - Delays in the activation of new SIM cards.
+   - Feedback on friendly service center staff.
+
+3. **Billing and Pricing Concerns:**
+   - Incorrect billing amount for the month.
+   - Discovery of hidden charges.
+   - Perception that recharge plan prices are too high.
+
+4. **Product or App Performance:**
+   - Mobile app crashes frequently.
+   - Complaints about muffled voice quality during calls.
+   - Overheating router issues.
+
+5. **Installation and Usage Feedback:**
+   - Positive feedback on broadband installation professionalism.
+   - Issues with international roaming pack not functioning.
+
+### Actionable Insight:
+
+**Address Connectivity and Performance Issues:** 
+Given the high volume of complaints related to internet connectivity, call quality, and app performance, 
+it is crucial for the product team to prioritize enhancements in these areas. 
+Specifically, a thorough review of the network infrastructure to ensure consistent high-speed connectivity should be conducted, 
+along with performance optimization for the mobile app. 
+Additionally, implementing a feature that tracks connection quality in real-time could provide valuable insights and 
+help mitigate customer issues more proactively."
+
