@@ -103,3 +103,107 @@ Prompt_v1
 ]
 
 Prompt_v2
+prompt_version,llm_output
+prompt_2_structured,"Here’s a summary of the customer support tickets:
+
+1. **Ticket ID: 1**
+   - **Issue**: Poor internet connection
+   - **Product Area**: Internet Service
+   - **Customer Sentiment**: Negative
+
+2. **Ticket ID: 2**
+   - **Issue**: Broadband cost is higher than expected
+   - **Product Area**: Billing
+   - **Customer Sentiment**: Negative
+
+3. **Ticket ID: 3**
+   - **Issue**: International roaming pack not working
+   - **Product Area**: Roaming Services
+   - **Customer Sentiment**: Negative
+
+4. **Ticket ID: 4**
+   - **Issue**: Frequent call drops
+   - **Product Area**: Call Services
+   - **Customer Sentiment**: Negative
+
+5. **Ticket ID: 5**
+   - **Issue**: Slow data speed in the evening
+   - **Product Area**: Data Services
+   - **Customer Sentiment**: Negative
+
+6. **Ticket ID: 6**
+   - **Issue**: Long wait time for customer service
+   - **Product Area**: Customer Support
+   - **Customer Sentiment**: Negative
+
+7. **Ticket ID: 7**
+   - **Issue**: Mobile app keeps crashing
+   - **Product Area**: Mobile Application
+   - **Customer Sentiment**: Negative
+
+8. **Ticket ID: 8**
+   - **Issue**: Incorrect billing amount this month
+   - **Product Area**: Billing
+   - **Customer Sentiment**: Negative
+
+9. **Ticket ID: 9**
+   - **Issue**: Weak network signal inside house
+   - **Product Area**: Network Coverage
+   - **Customer Sentiment**: Negative
+
+10. **Ticket ID: 10**
+    - **Issue**: Frequent disconnections of fiber connection
+    - **Product Area**: Internet Service
+    - **Customer Sentiment**: Negative
+
+11. **Ticket ID: 11**
+    - **Issue**: Delayed activation of new SIM
+    - **Product Area**: SIM Services
+    - **Customer Sentiment**: Negative
+
+12. **Ticket ID: 12**
+    - **Issue**: 5G speeds not meeting expectations
+    - **Product Area**: 5G Services
+    - **Customer Sentiment**: Negative
+
+13. **Ticket ID: 13**
+    - **Issue**: Professional broadband installation
+    - **Product Area**: Installation Services
+    - **Customer Sentiment**: Positive
+
+14. **Ticket ID: 14**
+    - **Issue**: Unable to send SMS while roaming
+    - **Product Area**: Roaming Services
+    - **Customer Sentiment**: Negative
+
+15. **Ticket ID: 15**
+    - **Issue**: High recharge plan prices
+    - **Product Area**: Billing
+    - **Customer Sentiment**: Negative
+
+16. **Ticket ID: 16**
+    - **Issue**: Hidden charges in monthly bill
+    - **Product Area**: Billing
+    - **Customer Sentiment**: Negative
+
+17. **Ticket ID: 17**
+    - **Issue**: Muffled voice quality during calls
+    - **Product Area**: Call Services
+    - **Customer Sentiment**: Negative
+
+18. **Ticket ID: 18**
+    - **Issue**: Router overheating often
+    - **Product Area**: Hardware
+    - **Customer Sentiment**: Negative
+
+19. **Ticket ID: 19**
+    - **Issue**: Friendly service center staff
+    - **Product Area**: Customer Support
+    - **Customer Sentiment**: Positive
+
+20. **Ticket ID: 20**
+    - **Issue**: Internet down since morning
+    - **Product Area**: Internet Service
+    - **Customer Sentiment**: Negative"
+
+Prompt3
