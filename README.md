@@ -23,3 +23,5 @@ As a PM, I'd want the following
   Completion tokens: 250
   Total tokens: 798
   Estimated cost per request: $0.000232
+
+- LLM sound confidential but is incorrect - model overconfidence without sufficient grounding. LLMs predict what text is most likely to come next. LLMs don't know facts; they take assumptions, do not have a real-world check, bias towards fluency.
