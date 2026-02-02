@@ -7,6 +7,24 @@ As a PM, I'd want the following
 - Consistency across tickets
 - Hallucination risk
 
+# ## Example Input
+```json
+{
+  "tickets": [
+    "Payment failed but amount deducted",
+    "App crashes during checkout"
+  ]
+}
+
+# Expected Output
+- Issue: Payment failure
+  Impact: Customer charged without confirmation
+  Urgency: High
+
+- Issue: App crash at checkout
+  Impact: Purchase blocked
+  Urgency: High
+
 - I find prompt 5 as the best prompt as it gives structred, bullet summary, and gives impact against each customer ticket and summarises the ticket. 
 - Actionable is missing from prompts 1 and 4
 
