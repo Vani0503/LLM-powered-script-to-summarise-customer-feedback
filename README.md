@@ -26,3 +26,4 @@ As a PM, I'd want the following
 
 - LLM sound confidential but is incorrect - model overconfidence without sufficient grounding. LLMs predict what text is most likely to come next. LLMs don't know facts; they take assumptions, do not have a real-world check, bias towards fluency.
 Productising this project: using an API which will consume raw tickets and get structured summaries back automatically. (json (http request) -> FASTAPI endpoint -> prompt_v5 logic -> LLM -> strcutured json response
+POST http://localhost:8000/summarize
